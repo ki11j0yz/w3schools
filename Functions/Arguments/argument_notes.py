@@ -70,11 +70,7 @@ def an_function(lang = "Python"):
 
 an_function("Perl")
 an_function("Ruby")
-<<<<<<< HEAD
-an_function()               # notice how it defaults to "Python"
-=======
 an_function()               # notice how it defaults to "Python" when no args passed
->>>>>>> b5011a7 (March 26th, first commit)
 an_function("C++")
 print("\n")
 
